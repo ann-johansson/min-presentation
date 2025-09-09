@@ -1,0 +1,4 @@
+Hej!
+Jag hoppas att du har pluggat hårt och kommit långt i dina studier.
+Jag kämpar just nu med att lära mig GitHub och jag ser verkligen fram emot att få börja programera i C#, det verkar sååå spännande.
+Kom ihåg att aldrig sluta att lära dig, håll i och fortsätt framåt, You Can do It!!!
